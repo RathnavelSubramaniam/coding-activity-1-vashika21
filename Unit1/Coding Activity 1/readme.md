@@ -1,1 +1,2 @@
-This is coding activity 1
+This is coding activity 1 
+changes made
